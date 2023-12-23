@@ -1,0 +1,5 @@
+train: /home/user_name/jupyter_notebook/custom/apple_orange/train/images
+val: /home/user_name/jupyter_notebook/custom/apple_orange/val/images
+
+nc: 2
+names: ['apple', 'orange']
